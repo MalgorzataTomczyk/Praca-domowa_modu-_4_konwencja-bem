@@ -1,0 +1,59 @@
+.section__interestingElement {
+    color: rgb(15, 29, 219)
+}
+
+.section__box {
+    color: #0a440dd5
+}
+
+.section__table {
+    font-family: "Arial", sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.section__tableCell {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+.section__tableCaption {
+    caption-side: top;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.section__tableHeader {
+    background-color: rgb(179, 192, 180);
+    color: rgb(4, 25, 139);
+    font-weight: normal;
+}
+
+.section__tableRow:hover {
+    background-color: bisque;
+}
+
+.section__container {
+    overflow-x: auto;
+}
+
+.section_list {
+    padding-left: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.section__listItem {
+    margin: 10px 0;
+}
+
+.section__tableHeader {
+    background-color: rgb(179, 192, 180);
+    color: rgb(4, 25, 139);
+    font-weight: normal;
+}
+
+.section__linkExternal {
+    text-decoration: none;
+}

@@ -1,0 +1,27 @@
+.body__generalbody {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 20px;
+    text-align: justify;
+    background-color: hsl(188, 45%, 69%);
+    font-family: "Lato", sans-serif;
+    line-height: 1, 5;
+}
+
+.body__darkBody {
+    background-color: #a09b9b;
+}
+
+.body__mainHeader {
+    margin-top: 15px;
+    text-align: left;
+    color: rgb(4, 25, 139);
+    font-weight: 800;
+    font-size: larger;
+    font-style: bold;
+}
+
+.body__header {
+    text-align: left;
+    color: rgb(4, 25, 139)
+}

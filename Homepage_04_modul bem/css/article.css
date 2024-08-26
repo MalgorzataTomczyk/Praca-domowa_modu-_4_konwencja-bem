@@ -1,0 +1,8 @@
+.article__header {
+    color:cadetblue
+}
+.article__button {
+    border: rgb(179, 192, 180);
+    background-color: hsl(188, 45%, 69%);
+    color: rgb(4, 25, 139);
+}
