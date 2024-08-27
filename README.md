@@ -5,7 +5,11 @@ Check out the live demo of my website [here](#).
 
 ## About
 This is my first website about 
+
+
 ![Me](https://github.com/MalgorzataTomczyk/Praca-domowa_modu-_4_konwencja-bem/blob/main/Homepage_04_modul%20bem/images/M.Tomczyk.jpg?raw=true)
+
+
 showcasing my personal interests.
 
 ## Features
