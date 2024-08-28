@@ -1,7 +1,7 @@
 # Małgorzata Tomczyk - My First Website
 
 ## Demo
-Check out the live demo of my website [here](#). 
+Check out the live demo of my website [here](https://github.com/MalgorzataTomczyk/homepage_bem.github.io.git). 
 
 ## About
 This is my first website about 
